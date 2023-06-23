@@ -1,4 +1,4 @@
->>> Restaurant Full Stack 
+>>> Admin_Panel 
     Pasos:
 
 1- Ejecutar Visual Studio Code 
